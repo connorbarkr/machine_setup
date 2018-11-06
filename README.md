@@ -1,15 +1,8 @@
-Links
------
-+ [Colour scheme](https://ethanschoonover.com/solarized/)
-	+ [Colour scheme instructions](https://github.com/altercation/solarized/tree/master/osx-terminal.app-colors-solarized)
-+ [Font](http://www.levien.com/type/myfonts/inconsolata.html)
-+ [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-	+ [Installation instructions](https://github.com/robbyrussell/oh-my-zsh#readme)
-
 Instructions
 ------------
 1. Install colour scheme using the .terminal files in the `xterm-256color` folder
 2. Install the Inconsolata font
-3. Install Zsh using the instructions found in the README
-4. Move `zsh.zshrc` to the home directory and rename it to `.zshrc`
-5. Move `eskimopies.zsh-theme` to `~/.oh-my-zsh/themes`
+3. Run `brew install zsh zsh-completions`
+4. Set zsh as the default shell in System Preferences > Users & Groups > Advanced Preferences
+5. Move `zsh.zshrc` to the home directory and rename it to `.zshrc`
+6. Move `eskimopies.zsh-theme` to `~/.oh-my-zsh/themes`
