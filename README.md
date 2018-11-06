@@ -1,16 +1,16 @@
 LINKS
-=====
+-----
 
-* Colour scheme: https://ethanschoonover.com/solarized/
-	* Colour scheme instructions: https://github.com/altercation/solarized/tree/master/osx-terminal.app-colors-solarized
+* [Colour scheme](https://ethanschoonover.com/solarized/):
+	* [Colour scheme instructions](https://github.com/altercation/solarized/tree/master/osx-terminal.app-colors-solarized):
 
-* Font: http://www.levien.com/type/myfonts/inconsolata.html
+* [Font](http://www.levien.com/type/myfonts/inconsolata.html):
 
-* Oh-my-zsh: https://github.com/robbyrussell/oh-my-zsh
-	* Installation instructions: https://github.com/robbyrussell/oh-my-zsh#readme
+* [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh):
+	* [Installation instructions](https://github.com/robbyrussell/oh-my-zsh#readme):
 
 INSTRUCTIONS
-============
+------------
 
 1. Install colour scheme using the .terminal files in the 'xterm-256color' folder
 2. Install the Inconsolata font
