@@ -32,5 +32,5 @@ function git_prompt_info() {
 
 PROMPT='
 
-$fg[cyan]eskimopies: $fg[yellow]$(get_pwd)$(put_spacing)$(git_prompt_info)
+$fg[cyan]connorbarkr: $fg[yellow]$(get_pwd)$(put_spacing)$(git_prompt_info)
 $reset_color→ '
